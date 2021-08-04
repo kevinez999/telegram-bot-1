@@ -1,5 +1,5 @@
 const Telegrambot = require('node-telegram-bot-api');
-const token = //token nya bg
+const token = "1812264432:AAG9ucKxfFI92a3C0vAp62ToOGJSb1w-VAQ"//token nya bg
 const Command = require('telegram-command-handler');
 const moment = require('moment-timezone')
 const bot = new Telegrambot(token, {polling: true});
