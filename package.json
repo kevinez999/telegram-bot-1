@@ -4,7 +4,7 @@
   "description": "jojo bot telegram",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "pm2 start index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "johanes manik",
@@ -20,7 +20,7 @@
     "node-fetch": "^2.6.1",
     "node-gtts": "^2.0.2",
     "node-telegram-bot-api": "^0.51.0",
-    "pm2": ^
+    "pm2": "^5.1.0",
     "request": "^2.88.2",
     "telegram-command-handler": "^1.4.0",
     "timestamp-zoned": "^1.0.4"
