@@ -20,7 +20,7 @@
     "node-fetch": "^2.6.1",
     "node-gtts": "^2.0.2",
     "node-telegram-bot-api": "^0.51.0",
-    "pm2": "^5.1.0",
+    "pm2": "^3.5.1",
     "request": "^2.88.2",
     "telegram-command-handler": "^1.4.0",
     "timestamp-zoned": "^1.0.4"
