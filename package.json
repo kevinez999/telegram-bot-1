@@ -22,6 +22,7 @@
     "node-telegram-bot-api": "^0.51.0",
     "request": "^2.88.2",
     "telegram-command-handler": "^1.4.0",
-    "timestamp-zoned": "^1.0.4"
+    "timestamp-zoned": "^1.0.4",
+    "pm2": "^2.4.4"
   }
 }
